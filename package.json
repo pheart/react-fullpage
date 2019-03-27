@@ -66,6 +66,6 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.2.5",
-    "fullpage.js": "^3.0.4"
+    "fullpage.js": "github:pheart/fullPage.js#084e26afff9526758a38211160acf3f6741826fa"
   }
 }
